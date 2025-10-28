@@ -1,2 +1,2 @@
 # Development
-This is MY First code
+This is my First code
